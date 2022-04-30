@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rishiksh7
 - 👀 I’m interested in learning Blockchain and Web 3.0
-- 🌱 I’m currently learning ... RUST
-- 💞️ I’m looking to collaborate on ... Web 3.0
+- 🌱 I’m currently learning RUST
+- 💞️ I’m looking to collaborate on Web 3.0
 - 📫 Reach me at rishiksharma07@gmail.com
 
 <!---
