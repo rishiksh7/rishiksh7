@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rishiksh7
+- 👋 Hi, I’m Rishik Sharma
 - 👀 I’m interested in learning Blockchain and Web 3.0
-- 🌱 I’m currently learning RUST
+- 🌱 I’m currently learning RUST and Have worked with OpenCV
 - 💞️ I’m looking to collaborate on Web 3.0
 - 📫 Reach me at rishiksharma07@gmail.com
 
